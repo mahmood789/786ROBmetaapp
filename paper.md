@@ -1,5 +1,5 @@
 ---
-title: 'RoBVis: An Interactive Shiny Application for Visualizing Risk of Bias Assessments' # Or choose your own title
+Title: '786MIII RoB: An Interactive Shiny Application for Visualizing Risk of Bias Assessments' 
 tags:
   - R
   - Shiny
