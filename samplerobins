@@ -1,0 +1,6 @@
+"Study","Confounding","Selection","Classification","Deviations","Missing","Measurement","Reporting","Overall","Weight"
+"Study_1","Serious","No information","No information","Low","Low","Critical","Critical","No information",163
+"Study_2","Critical","Serious","No information","Serious","Low","Critical","No information","No information",140
+"Study_3","Serious","Critical","Moderate","Low","Low","Low","No information","No information",191
+"Study_4","Low","Moderate","Critical","Serious","Serious","No information","No information","No information",205
+"Study_5","Serious","Low","Moderate","No information","Critical","Critical","Critical","No information",285
